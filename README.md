@@ -3,8 +3,6 @@
 
 Smart Spend AI Pro ha ek advanced web-based expense tracker aahe. Ha project CSE-AIML student chya perspective ne banvla gela aahe, jyat **Data Visualization**, **Voice-to-Text Integration**, aani **Rule-based AI Insights** cha vapr kela aahe.
 
----
-
 ## 🌟 Key Features
 
 * **📊 Real-time Data Visualization:** `Chart.js` vaprun tumchya kharchaacha dynamic Pie Chart tayar hoto.
@@ -17,12 +15,6 @@ Smart Spend AI Pro ha ek advanced web-based expense tracker aahe. Ha project CSE
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ab3a6ce5-e428-4346-8fa1-1677a800bccd" />
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/67d322b4-8684-477c-a08c-634d7f9fa424" />
 
-
-
-
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Use Case |
@@ -32,7 +24,7 @@ Smart Spend AI Pro ha ek advanced web-based expense tracker aahe. Ha project CSE
 | **Chart.js** | Data Visualization & Analytics |
 | **Git & GitHub** | Version Control & Deployment |
 
----
+
 
 ## 🚀 Installation & Usage
 
@@ -47,7 +39,7 @@ Smart Spend AI Pro ha ek advanced web-based expense tracker aahe. Ha project CSE
 3.  **Run Kara:**
     Tumchi `index.html` file kontya hi browser madhe (Chrome recommended for Voice) open kara.
 
----
+
 
 ## 🧠 AIML Perspective (The Logic)
 
@@ -55,7 +47,7 @@ Hya project madhe khaliil logic vaprun "Intelligence" add kela aahe:
 1.  **Threshold-based Anomaly Detection:** Jar ekhadi single entry total budget chya 30% peksha jast asel, tar AI warning trigger hote.
 2.  **Pattern Recognition:** Categorical spending pattern analysis karnya saathi JavaScript logic vaprele aahe.
 
----
+
 
 ## 📈 Future Scope
 
@@ -63,7 +55,7 @@ Hya project madhe khaliil logic vaprun "Intelligence" add kela aahe:
 - [ ] **OCR Integration:** Bill images scan karun automatic kharch add karne.
 - [ ] **Export to Excel:** Monthly reports download karnyachi suvidha.
 
----
+
 
 ## 👤 Author
 **Sanika** *CSE-AIML Student*
