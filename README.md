@@ -15,7 +15,7 @@ Smart Spend AI Pro ha ek advanced web-based expense tracker aahe. Ha project CSE
 
 * <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/d90429a2-619a-4874-9b33-c7c7adb610e3" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ab3a6ce5-e428-4346-8fa1-1677a800bccd" />
-<img width="300" height="2500" alt="image" src="https://github.com/user-attachments/assets/67d322b4-8684-477c-a08c-634d7f9fa424" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/67d322b4-8684-477c-a08c-634d7f9fa424" />
 
 
 
