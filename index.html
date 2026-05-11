@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Spend AI - Pro</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <h1>Smart Spend AI Pro</h1>
+    
+    <button id="theme-toggle" onclick="toggleTheme()">🌙 Dark Mode</button>
+
+    <div class="form-container">
+        <input type="number" id="amount" placeholder="Amount (Rs)">
+        <select id="category">
+            <option value="Food">Food</option>
+            <option value="Travel">Travel</option>
+            <option value="Shopping">Shopping</option>
+            <option value="Misc">Misc</option>
+        </select>
+        <button class="action-btn" onclick="addExpense()">Add Expense</button>
+        <button class="action-btn" onclick="startVoice()" style="background: #ea4335;">🎤 Speak</button>
+    </div>
+
+    <div class="insight-box" id="ai-insight">
+        AI Insight: Tumchi entry add kara, me tumhala tips dein!
+    </div>
+
+    <div class="chart-box">
+        <canvas id="expenseChart"></canvas>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
