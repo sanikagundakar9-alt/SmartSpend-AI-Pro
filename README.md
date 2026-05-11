@@ -13,8 +13,8 @@ Smart Spend AI Pro ha ek advanced web-based expense tracker aahe. Ha project CSE
 * **🌙 Adaptive Dark Mode:** User preference anusar modern Dark aani Light mode toggle karnyachi suvidha.
 * **💾 Persistent Storage:** `LocalStorage` cha vapr kelyamule browser band kela tari data delete hot nahi.
 
-* <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/d90429a2-619a-4874-9b33-c7c7adb610e3" />
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/ab3a6ce5-e428-4346-8fa1-1677a800bccd" />
+* <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d90429a2-619a-4874-9b33-c7c7adb610e3" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ab3a6ce5-e428-4346-8fa1-1677a800bccd" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/67d322b4-8684-477c-a08c-634d7f9fa424" />
 
 
